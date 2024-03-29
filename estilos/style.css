@@ -73,13 +73,23 @@ main {
    
 }
 
-#formulario > form > #entrar {
+#formulario > form > #entrar > input {
     background-color: rgb(196, 74, 74);
+    width: 200px;
+}
+
+#formulario > form > #entrar > input:hover {
+    background-color: brown;
+      
+}
+
+#formulario > form > #esqueci > a {
+    text-decoration: none;
+    color: white;
+ 
 }
 
 #formulario > form > #esqueci {
-    text-decoration: none;
-    color: white;
     background-color: grey;
 }
 
