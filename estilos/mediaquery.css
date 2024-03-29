@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 769px) {
+
+    main {
+        background-image: linear-gradient(to bottom, rgb(58, 0, 0), rgb(75, 73, 73));
+    }
+
+    #arealogin {
+        width: 80vw;
+        height: 60vh;
+    
+    }
+
+    #foto {
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    #formulario {
+        float: right;
+        width: 50%;
+        height: 100%;
+    }
+
+    
+
+ 
+}
